@@ -1,3 +1,5 @@
 .code
 .vscode
 .sfdx
+.sf
+config.json
