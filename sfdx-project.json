@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "trainingDefault",
+      "default": true
+    }
+  ],
+  "name": "cpdOnSiteTraining",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "54.0"
+}
