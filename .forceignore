@@ -4,6 +4,10 @@
 
 package.xml
 
+.gitkeep
+.dummyFile
+.dummyfile
+
 # LWC configuration files
 **/jsconfig.json
 **/.eslintrc.json
