@@ -40,7 +40,7 @@
         <assignedToType>role</assignedToType>
         <dueDateOffset>50</dueDateOffset>
         <notifyAssignee>false</notifyAssignee>
-        <priority>Low</priority>
+        <priority>Normal</priority>
         <protected>false</protected>
         <status>Open</status>
         <subject>do it!</subject>
