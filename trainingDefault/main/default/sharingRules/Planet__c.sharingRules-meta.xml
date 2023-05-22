@@ -22,7 +22,7 @@
             <role>SVP_Customer_Experience</role>
         </sharedTo>
         <sharedFrom>
-            <allCustomerPortalUsers></allCustomerPortalUsers>
+            <rolesAndSubordinates>SVP_Customer_Experience</rolesAndSubordinates>
         </sharedFrom>
     </sharingOwnerRules>
     <sharingOwnerRules>
@@ -30,10 +30,10 @@
         <accessLevel>Edit</accessLevel>
         <label>ctx sharing 2</label>
         <sharedTo>
-            <allCustomerPortalUsers></allCustomerPortalUsers>
+            <rolesAndSubordinates>SVP_Customer_Experience</rolesAndSubordinates>
         </sharedTo>
         <sharedFrom>
-            <roleAndSubordinatesInternal>SVP_Customer_Experience</roleAndSubordinatesInternal>
+            <role>SVP_Customer_Experience</role>
         </sharedFrom>
     </sharingOwnerRules>
 </SharingRules>
