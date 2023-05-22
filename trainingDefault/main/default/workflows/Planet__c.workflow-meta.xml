@@ -42,7 +42,7 @@
         <notifyAssignee>false</notifyAssignee>
         <priority>Low</priority>
         <protected>false</protected>
-        <status>In Progress</status>
+        <status>Open</status>
         <subject>do it!</subject>
     </tasks>
 </Workflow>
