@@ -1,0 +1,10 @@
+[
+    {
+        "sobject": "Dimension__c",
+        "saveRefs": true,
+        "resolveRefs": false,
+        "files": [
+            "DimensionValues-Dimension__cs.json"
+        ]
+    }
+]

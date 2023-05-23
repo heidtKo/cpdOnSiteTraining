@@ -1,0 +1,37 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Dimension__c",
+                "referenceId": "Dimension__cRef1"
+            },
+            "Name": "Dimension (Profile)",
+            "Dimension_Creation_Date__c": "2023-05-23",
+            "Dimension_Name__c": "the fourth",
+            "Relative_Similarity__c": 50,
+            "isParallel__c": false
+        },
+        {
+            "attributes": {
+                "type": "Dimension__c",
+                "referenceId": "Dimension__cRef2"
+            },
+            "Name": "Dimension (Profile)",
+            "Dimension_Creation_Date__c": "1900-01-01",
+            "Dimension_Name__c": "the parallel",
+            "Relative_Similarity__c": 80,
+            "isParallel__c": true
+        },
+        {
+            "attributes": {
+                "type": "Dimension__c",
+                "referenceId": "Dimension__cRef3"
+            },
+            "Name": "a0NDO000000D2iW",
+            "Dimension_Creation_Date__c": "1900-01-01",
+            "Dimension_Name__c": "the current",
+            "Relative_Similarity__c": 100,
+            "isParallel__c": false
+        }
+    ]
+}
